@@ -7,8 +7,8 @@ import (
 
 // commands
 import (
-	"muxtest/client"
-	"muxtest/server"
+	"github.com/hadi77ir/muxtest/client"
+	"github.com/hadi77ir/muxtest/server"
 )
 
 func main() {
